@@ -21,3 +21,7 @@ This project focuses on understanding **components**, **props**, and **array map
 - Passing and using props
 - Rendering multiple components using arrays
 - Structuring a React project properly
+
+ ## Author
+Iqra Khatoon  
+Aspiring Full-Stack Web Developer  (MERN) 
