@@ -3,6 +3,10 @@
 A responsive job listing user interface built using **React**.  
 This project focuses on understanding **components**, **props**, and **array mapping** to render dynamic UI elements.
 
+## Project preview
+<img width="1364" height="2025" alt="React-Card" src="https://github.com/user-attachments/assets/af58d149-e4ed-4c1f-8468-81bc091eb424" />
+
+
 ## 🚀 Features
 - Reusable Card component
 - Dynamic rendering using array `.map()`
